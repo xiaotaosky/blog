@@ -1,4 +1,4 @@
-#SSH安装
+# SSH安装
 安装 sudo apt-get install openssh-server  
 启动 sudo /etc/init.d/ssh start 
 查看版本ssh -V
