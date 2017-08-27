@@ -2,9 +2,13 @@
 
 安装 sudo apt-get install openssh-server  
 启动 sudo /etc/init.d/ssh start
+
 查看版本ssh -V
+
 重启 SSH 服务器：sudo service ssh restart
+
 停止ssh服务：sudo /etc/init.d/ssh stop
+
 查看IP：ifconfig
 免密码配置：
 >1、cd ~/.ssh/（如果没有目录，先执行一次ssh localhost）
