@@ -10,7 +10,7 @@
 
 #### 机器学习基础
 1 [回归方法](https://xiaotaosky.github.io/blog/回归方法)  
-2 [支持向量机](https://xiaotaosky.github.io/blog/支持向量机) 
+2 [支持向量机](https://xiaotaosky.github.io/blog/支持向量机)   
 3 [决策树](https://xiaotaosky.github.io/blog/决策树)  
  
 #### Support or Contact
